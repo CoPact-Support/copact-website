@@ -1,2 +1,0 @@
-# copact-website
-CoPact Website
